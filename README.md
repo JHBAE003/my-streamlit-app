@@ -9,4 +9,4 @@
 
 ## 관련 링크
 
-- [Streamlit 공식 홈페이지](https://streamlit.io/)
+- [9주차 실습](https://jhbae003-my-streamlit-app-streamlit-app-ekqc9z.streamlit.app/) — 만료일: 2026년 11월 5일
