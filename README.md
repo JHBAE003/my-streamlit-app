@@ -6,3 +6,7 @@
 
 - `streamlit_app.py`: Streamlit 실습 앱
 - `requirements.txt`: 앱 실행에 필요한 Python 패키지 목록
+
+## 관련 링크
+
+- [Streamlit 공식 홈페이지](https://streamlit.io/)
